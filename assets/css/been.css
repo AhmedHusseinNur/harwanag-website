@@ -1,0 +1,8 @@
+@media (max-width: 768px) {
+    /* Styles for mobile screens */
+    .container {
+      width: 100%;
+      padding: 10px;
+    }
+  }
+  

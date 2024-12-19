@@ -1,0 +1,23 @@
+
+
+  body{
+   background-color:white;
+    
+  }
+  p{ 
+    color: blue;
+    border:10px solid red;
+    margin: 0vmax;
+    padding:85px solid blue;
+    margin: 35px solid lightgrey;
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+h1{
+    text: shadow 25px solid black;
+
+
+}
+   
+  

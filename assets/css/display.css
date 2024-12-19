@@ -1,0 +1,46 @@
+.container{
+    background-color:red;
+    bottom: 600px;
+}
+.Box1{
+    background-color: lightskyblue;
+    display: inline-block;
+   
+}
+.Box2{
+    background-color:yellow;
+    display: inline-block;
+    left: 200px;
+    position: relative;
+    margin-top: 100px;
+
+}
+.inline-block{
+    display: inline-block;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 100px;
+    
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    list-style:none;
+    position: fixed;
+    top: -20px;
+}
+ul li{
+    margin-left: 20px;
+    background-color: green;
+    margin-top: 5px;
+    padding: 10px;
+    border:10px;
+}
+.asus{
+    
+    margin: 30px;
+ 
+    flex-direction: column;
+
+}
